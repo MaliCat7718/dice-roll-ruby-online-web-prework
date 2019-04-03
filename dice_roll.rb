@@ -5,3 +5,5 @@
 def roll
   puts (1...200)
 end
+
+roll
